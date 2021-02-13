@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import FatFooter from "./FatFooter/FatFooter";
 import "./App.css";
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <FatFooter />
     </div>
   );
 }

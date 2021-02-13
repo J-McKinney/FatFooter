@@ -1,0 +1,39 @@
+.wrapper {
+  background-size: cover;
+  width: 100%;
+  min-height: 100%;
+  /* display: flex; */
+  /* flex-wrap: wrap; */
+  /* overflow: auto; */
+  box-sizing: border-box;
+  justify-content: center;
+  background-color: #ffffff;
+  /* background-color: black; */
+}
+
+.footerContainer {
+  height: 200px;
+  width: auto;
+}
+
+.firstRow {
+  background-color: blue;
+}
+
+.firstColumn {
+  background-color: blueviolet;
+}
+
+.secondColumn {
+  background-color: red;
+}
+
+.thirdColumn {
+  background-color: green;
+}
+
+.facebookIcon {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+}
